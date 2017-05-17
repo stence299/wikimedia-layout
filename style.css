@@ -1,0 +1,45 @@
+body
+{
+	margin: 150px;
+	padding: 0;
+}
+#rightsidetext
+{
+	text-align: right;
+	padding-right: 15px;
+	font-weight: bold;
+}
+#picturecenter1
+{
+	display: flex;
+	justify-content:space-around;
+}
+#picturecenter2
+{
+	display: flex;
+	justify-content:space-around;
+}
+#picturecenter3
+{
+	display: flex;
+	justify-content:space-around;
+}
+#picturecenter4
+{
+	display: flex;
+	justify-content:space-around;
+}
+#textsize
+{
+	font-size: 20px;
+}
+#centertextforfooter
+{
+	text-align: center;
+	font-size: 14px;
+}
+
+
+
+
+
